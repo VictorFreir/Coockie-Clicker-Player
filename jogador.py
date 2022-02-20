@@ -12,13 +12,13 @@ count_total_cookies = 0
 
 
 tempo_inicial = datetime.now().time()
-print(tempo_inicial)
 
 while True:
     os.system('clear')
     coockie.click()
     count_current_cookies += 1
     count_total_cookies += 1
-    
+
+
 
 #browser.quit()
