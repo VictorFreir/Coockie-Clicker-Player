@@ -1,0 +1,9 @@
+,name,css_tag_price,cookie_per_seconds,css_tag_button,price,unlocked
+0,Cursor,productPrice0,0.1,product0,0,False
+1,Grandma,productPrice1,1.0,product1,100,False
+2,Farm,productPrice2,8.0,product2,1100,False
+3,Mine,productPrice3,47.0,product3,12000,False
+4,Factory,productPrice4,260.0,product4,130000,False
+5,Bank,productPrice5,1400.0,product5,1400000,False
+6,temple,productPrice6,7800.0,product6,20000000,False
+7,Wizard Tower,productPrice7,44000.0,product7,330000000,False
